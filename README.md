@@ -7,5 +7,5 @@
 
 - 🍻 Junior at 🇨🇳 [SDUST](https://www.sdust.edu.cn/), _BSc in Electrical Engineering and Automation_
 - ⚡ MCU( C ) / PCB( Altium Designer / KiCAD )
-- ✍️ [Blogger:零焦.能量](https://0j.pw/)
+- ✍️ [Blogger:零焦·能量](https://0j.pw/)
 - 🏍️ motocycle
